@@ -1,6 +1,5 @@
-# DxhFrameWork
-Write frames from scratch
+### 说明：
+通过一个案例，仿写Spring框架，从而学习Spring框架
 
-#### Init :
- 创建一个普通的maven项目，它依赖于```javax.servlet-api```、```jsp```。
-
+#### Init (2020-08-05):
+- 架子搭建完毕~
